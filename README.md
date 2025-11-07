@@ -186,7 +186,7 @@ NTP по другому не увенчались успехом и строка
 
 <img width="985" height="360" alt="Screenshot from 2025-11-05 22-56-17" src="https://github.com/user-attachments/assets/f2cb5877-39a8-45cc-9ab6-f62abb3bb0f5" />
 
-Думаю внести изменения и читаю в одной из инструкций что не нужно вносить изменения в этом файл, закрываю его и октрываю другой тоже тюрьма только точка локал. Команда ```sudo nano /etc/fail2ban/jail.local```
+Думаю внести изменения и читаю в одной из инструкций что не нужно вносить изменения в этом файл, закрываю его и октрываю другой тоже jail только точка локал. Команда ```sudo nano /etc/fail2ban/jail.local```
 
 <img width="1435" height="1054" alt="Screenshot from 2025-11-05 23-06-13" src="https://github.com/user-attachments/assets/91624c86-e2c4-4426-b08c-7c9aedf0c8aa" />
 
